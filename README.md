@@ -2,13 +2,13 @@
 
 [![Build Status](https://travis-ci.org/anishkny/node-express-realworld-example-app.svg?branch=master)](https://travis-ci.org/anishkny/node-express-realworld-example-app)
 
-> ### Example Node (Express + Typescript + Postgresql + Swagger) codebase containing real world examples (get all orders, get one orders) that adheres to the [RealWorld](https://teman-startup-be.herokuapp.com/api/orders) API spec.
-<a href="https://teman-startup-be.herokuapp.com/api-docs" target="_blank">api docs swagger</a>
+> ### Example Node (Express + Typescript + Postgresql + Swagger) codebase containing real world examples (get all orders, get one orders) that adheres to the [RealWorld](http://localhost:8080/api/orders) API spec.
+<a href="http://localhost:8080/api-docs" target="_blank">api docs swagger</a>
 
 This repo is functionality complete — PRs and issues welcome!
 
 # Getting started
-
+ 
 To get the Node server running locally:
 
 - Clone this repo

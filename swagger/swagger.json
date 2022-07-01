@@ -13,7 +13,7 @@
     }
   },
   "schemes": ["http", "https"],
-  "host": "teman-startup-be.herokuapp.com",
+  "host": "localhost:8080",
   "basePath": "/api",
   "paths": {
     "/orders": {
